@@ -1,0 +1,32 @@
+{
+  "name": "node_course_mongodb_connection",
+  "version": "1.0.0",
+  "description": "Aplicação que conecta ao banco de dados MongoDB usando mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/node_course_mongodb_connection.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "javascript",
+    "tutorial",
+    "server"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/node_course_mongodb_connection/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/node_course_mongodb_connection#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6"
+  }
+}
